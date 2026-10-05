@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Mehmet Dal",
+        "member_id": 101,
+        "borrowed_books": []
+    },
+    {
+        "name": "Burak Yılmaz",
+        "member_id": 103,
+        "borrowed_books": []
+    },
+    {
+        "name": "Ahmet Demir",
+        "member_id": 105,
+        "borrowed_books": []
+    },
+    {
+        "name": "Elif Şahin",
+        "member_id": 106,
+        "borrowed_books": []
+    },
+    {
+        "name": "Canan Uçar",
+        "member_id": 107,
+        "borrowed_books": []
+    },
+    {
+        "name": "Mert Koç",
+        "member_id": 108,
+        "borrowed_books": []
+    },
+    {
+        "name": "Fatma Er",
+        "member_id": 109,
+        "borrowed_books": []
+    },
+    {
+        "name": "Emre Aydın",
+        "member_id": 110,
+        "borrowed_books": []
+    },
+    {
+        "name": "Derya Polat",
+        "member_id": 111,
+        "borrowed_books": []
+    },
+    {
+        "name": "Kemal Yüce",
+        "member_id": 112,
+        "borrowed_books": []
+    },
+    {
+        "name": "Nazan Çelik",
+        "member_id": 113,
+        "borrowed_books": []
+    },
+    {
+        "name": "Okan Sarı",
+        "member_id": 114,
+        "borrowed_books": []
+    },
+    {
+        "name": "Pelin Aksoy",
+        "member_id": 115,
+        "borrowed_books": []
+    },
+    {
+        "name": "Selim Kurt",
+        "member_id": 116,
+        "borrowed_books": []
+    },
+    {
+        "name": "Hande Yıldız",
+        "member_id": 117,
+        "borrowed_books": []
+    },
+    {
+        "name": "İsmail Karaca",
+        "member_id": 118,
+        "borrowed_books": []
+    },
+    {
+        "name": "Gülşah Öz",
+        "member_id": 119,
+        "borrowed_books": []
+    },
+    {
+        "name": "Taylan Güneş",
+        "member_id": 120,
+        "borrowed_books": []
+    },
+    {
+        "name": "Meryem Asilkan",
+        "member_id": 104,
+        "borrowed_books": []
+    },
+    {
+        "name": "Sinem Alkan",
+        "member_id": 145,
+        "borrowed_books": []
+    }
+]

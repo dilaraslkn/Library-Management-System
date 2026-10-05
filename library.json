@@ -1,0 +1,180 @@
+[
+    {
+        "title": "Becoming",
+        "authors": [
+            "Michelle Obama"
+        ],
+        "language": "English",
+        "publish_date": "2018",
+        "publishers": [
+            "Random House Audio"
+        ],
+        "isbn": "9781524763138",
+        "is_borrowed": false,
+        "duration": 780
+    },
+    {
+        "title": "1984",
+        "authors": [
+            "George Orwell"
+        ],
+        "language": "Türkçe",
+        "publish_date": "1949",
+        "publishers": [
+            "Can Yayınları"
+        ],
+        "isbn": "9789750718533",
+        "is_borrowed": false,
+        "file_format": "EPUB"
+    },
+    {
+        "title": "Altın Böcek",
+        "authors": [
+            "Edgar Allan Poe"
+        ],
+        "language": "Türkçe",
+        "publish_date": "2023",
+        "publishers": [
+            "Can Sanat Yayınları"
+        ],
+        "isbn": "9789750762208",
+        "is_borrowed": false,
+        "ages": "12 yaş ve üzeri"
+    },
+    {
+        "title": "Zamana Karşı",
+        "authors": [
+            "Simon Kernick"
+        ],
+        "language": "Türkçe",
+        "publish_date": "2020",
+        "publishers": [
+            "Olimpos Yayınları"
+        ],
+        "isbn": "9786257135689",
+        "is_borrowed": false
+    },
+    {
+        "title": "Ultimate questions",
+        "authors": [
+            "Nils Ch Rauhut"
+        ],
+        "language": "English",
+        "publish_date": "2011",
+        "publishers": [
+            "Prentice Hall"
+        ],
+        "isbn": [
+            "9780205731978"
+        ],
+        "is_borrowed": false
+    },
+    {
+        "title": "Lisey's verhaal",
+        "authors": [
+            "Stephen Kİng"
+        ],
+        "language": "English",
+        "publish_date": "2006",
+        "publishers": [
+            "Luitingh"
+        ],
+        "isbn": "9789024557745",
+        "is_borrowed": false
+    },
+    {
+        "title": "Blood Runs Cold",
+        "authors": [
+            "Alex Barclay"
+        ],
+        "language": "English",
+        "publish_date": "2016",
+        "publishers": [
+            "HarperCollins Publishers"
+        ],
+        "isbn": "9780008180867",
+        "is_borrowed": false
+    },
+    {
+        "title": "Kidnapped",
+        "authors": [
+            "Robert Louis Stevenson"
+        ],
+        "language": "English",
+        "publish_date": "1900",
+        "publishers": [
+            "Brown Watson"
+        ],
+        "isbn": "9780709701316",
+        "is_borrowed": false
+    },
+    {
+        "title": "Little Women Book Two Book and Charm",
+        "authors": [
+            "Louisa May Alcott"
+        ],
+        "language": "English",
+        "publish_date": "2004",
+        "publishers": [
+            "HarperFestival"
+        ],
+        "isbn": "9780060559915",
+        "is_borrowed": false
+    },
+    {
+        "title": "Çalıkuşu",
+        "authors": [
+            "Reşat Nuri Güntekin"
+        ],
+        "language": "Türçe",
+        "publish_date": "2023",
+        "publishers": [
+            "İnkılap Yayınevi"
+        ],
+        "isbn": "9781561364653",
+        "is_borrowed": false,
+        "file_format": "EPUB"
+    },
+    {
+        "title": "Siyam",
+        "authors": [
+            "Beyza Aksoy"
+        ],
+        "language": "Türkçe",
+        "publish_date": "2022",
+        "publishers": [
+            "Epsilon Yayınevi"
+        ],
+        "isbn": "9786254142253",
+        "is_borrowed": false,
+        "file_format": "PDF"
+    },
+    {
+        "title": "Gerçek",
+        "authors": [
+            "Émile Zola"
+        ],
+        "language": "Türkçe",
+        "publish_date": "None",
+        "publishers": [
+            "Sesle Kitap"
+        ],
+        "isbn": "9786055212179",
+        "is_borrowed": false,
+        "duration": 1417
+    },
+    {
+        "title": " Harry Potter and the Prisoner of Azkaban - Braille Edition",
+        "authors": [
+            "J.K. Rowling"
+        ],
+        "language": "English",
+        "publish_date": "2004",
+        "publishers": [
+            "National Braille Press"
+        ],
+        "isbn": "9781561364653",
+        "is_borrowed": false,
+        "ages": "9-12 yaş"
+    }
+]
